@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "id": "summit",
+  "title": "Summit — the Cloud Crown over the cloud sea",
+  "context": {
+    "kind": "site",
+    "site": "summit"
+  },
+  "scatter": {
+    "canopy": [
+      "arena_jade_pine_1",
+      "arena_jade_pine_0"
+    ],
+    "thicket": [
+      "arena_jade_boulder_0",
+      "arena_jade_boulder_1",
+      "arena_jade_fern_0"
+    ],
+    "ground": [
+      "arena_jade_scree_0"
+    ],
+    "horizon": [
+      "arena_jade_far_karst_0",
+      "arena_jade_karst_1"
+    ],
+    "enclosure": 0.25,
+    "fill": {
+      "far": [
+        "arena_jade_karst_1",
+        "arena_jade_crag_1",
+        "arena_jade_karst_1"
+      ],
+      "distant": [
+        "arena_jade_far_karst_0",
+        "arena_jade_far_karst_0",
+        "arena_jade_far_crag_0"
+      ],
+      "under": [
+        "arena_jade_boulder_1",
+        "arena_jade_boulder_0",
+        "arena_jade_scree_0"
+      ],
+      "low": [
+        "arena_jade_scree_0"
+      ],
+      "below": {
+        "under": [
+          "arena_jade_cloud_0",
+          "arena_jade_cloud_0",
+          "arena_jade_cloud_1"
+        ],
+        "low": [
+          "arena_jade_cloud_1"
+        ]
+      },
+      "from": 4,
+      "share": 0.3,
+      "deeper": 16,
+      "wider": 8
+    }
+  },
+  "meta": {
+    "notes": "Kairen's summit (the private project notes): a karst peak top, the land falling away on every bearing into the cloud sea, the crown's spires on the rim at the back left. Saved from CLOUD_CROWN, which stays in sceneryKits.ts (and groundPatches.ts) as the runtime fallback. Dressed from Jadeveil's own prop kit since 2026-10-22 (the private project notes): the crown's crags on the rim, karst towers in the cloud sea; nothing of the Empire's alpine set. Since the Jadeveil arenas feature (2026-10-22): an edge fill out to the camera's reach — karst towers and crags standing out of the cloud sea, banks of cloud lying on it (`EdgeFill.below`), boulders and pines on the peak top — and flags at the head of the summit."
+  },
+  "framingDepth": 5,
+  "focal": [
+    {
+      "key": "arena_jade_flags_0",
+      "tier": "canopy",
+      "count": 1,
+      "depth": 3,
+      "bearing": -0.95
+    }
+  ],
+  "wall": {
+    "keys": [
+      "arena_jade_crag_1",
+      "arena_jade_crag_0",
+      "arena_jade_crag_1"
+    ],
+    "depth": 2,
+    "arcs": [
+      {
+        "bearing": -2.25,
+        "sweep": 1.1
+      }
+    ]
+  },
+  "quiet": [
+    {
+      "bearing": -0.6,
+      "sweep": 2.4,
+      "density": 0.35
+    }
+  ],
+  "shelf": {
+    "edges": [
+      {
+        "bearing": -1.5707963267948966,
+        "sweep": 1.7,
+        "radius": 11.6
+      },
+      {
+        "bearing": -0.5235987755982989,
+        "sweep": 1.7,
+        "radius": 11.6
+      },
+      {
+        "bearing": 0.5235987755982987,
+        "sweep": 1.7,
+        "radius": 11.6
+      },
+      {
+        "bearing": 1.5707963267948966,
+        "sweep": 1.7,
+        "radius": 11.6
+      },
+      {
+        "bearing": 2.617993877991494,
+        "sweep": 1.7,
+        "radius": 11.6
+      },
+      {
+        "bearing": 3.6651914291880923,
+        "sweep": 1.7,
+        "radius": 11.6
+      }
+    ],
+    "drop": 11,
+    "steps": 5,
+    "tread": 0.9,
+    "face": "#4a4f57",
+    "lower": "#eef2f5",
+    "below": {
+      "keys": [
+        "arena_jade_karst_1",
+        "arena_jade_far_karst_0"
+      ],
+      "count": 16
+    }
+  },
+  "ground": {
+    "floor": {
+      "tile": "#8e918d",
+      "ground": "#5c605f"
+    },
+    "patches": [
+      {
+        "tint": [
+          0.78,
+          0.96,
+          0.86
+        ],
+        "threshold": 0.57,
+        "ramp": 0.14,
+        "scale": 2.2,
+        "salt": 31
+      },
+      {
+        "tint": [
+          1,
+          0.86,
+          0.72
+        ],
+        "threshold": 0.58,
+        "ramp": 0.13,
+        "scale": 1.8,
+        "salt": 59
+      },
+      {
+        "tint": [
+          0.86,
+          0.87,
+          0.88
+        ],
+        "threshold": 0.44,
+        "ramp": 0.3,
+        "scale": 4.2,
+        "salt": 47
+      }
+    ]
+  },
+  "haze": {
+    "color": "#d3dae0",
+    "near": 32,
+    "far": 62
+  }
+}

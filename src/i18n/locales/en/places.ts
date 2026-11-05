@@ -1,0 +1,52 @@
+/** Placeholder text. The keys and {params} are real. */
+export const places = {
+  'city.name': '[places.city.name]',
+  'lair_warren.name': '[places.lair_warren.name]',
+  'lair_wyrm.name': '[places.lair_wyrm.name]',
+  'lair_barrow.name': '[places.lair_barrow.name]',
+  'lair_silk.name': '[places.lair_silk.name]',
+  'lair_hall.name': '[places.lair_hall.name]',
+  'camp_jadeveil.name': '[places.camp_jadeveil.name]',
+  'castle.name': '[places.castle.name]',
+  
+  'label.barracks.text': '[places.label.barracks.text]',
+  'label.library.text': '[places.label.library.text]',
+  'label.forge.text': '[places.label.forge.text]',
+  'label.tavern.text': '[places.label.tavern.text]',
+  'label.market.text': '[places.label.market.text]',
+  'label.shop.text': '[places.label.shop.text]',
+  'label.stash.text': '[places.label.stash.text]',
+  'label.leave.text': '[places.label.leave.text]',
+  'label.withdraw.text': '[places.label.withdraw.text]',
+  'label.guarded.text': '[places.label.guarded.text]',
+  'label.chest.text': '[places.label.chest.text]',
+  'label.campfire.text': '[places.label.campfire.text]',
+  'label.monastery.text': '[places.label.monastery.text]',
+  'label.trader.text': '[places.label.trader.text]',
+  'label.whetstone.text': '[places.label.whetstone.text]',
+  'label.road.text': '[places.label.road.text]',
+  'label.range.text': '[places.label.range.text]',
+  
+  'shrine.1.name': '[places.shrine.1.name]',
+  'shrine.2.name': '[places.shrine.2.name]',
+  'shrine.3.name': '[places.shrine.3.name]',
+  'shrine.4.name': '[places.shrine.4.name]',
+  'shrine.wayside.name': '[places.shrine.wayside.name]',
+  'summit.name': '[places.summit.name]',
+  
+  'shrine.claimed.arrival': '[places.shrine.claimed.arrival] {name} {opens}',
+  'shrine.next.arrival': '[places.shrine.next.arrival] {name}',
+  'shrine.locked.arrival': '[places.shrine.locked.arrival] {name}',
+  'shrine.claimed.band': '[places.shrine.claimed.band] {name} {band}',
+  'shrine.claimed.summit': '[places.shrine.claimed.summit] {name} {summit}',
+  'shrine.barred.refusal': '[places.shrine.barred.refusal] {where} {shrine}',
+  
+  'summit.shrine.arrival': '[places.summit.shrine.arrival] {summit} {shrine}',
+  'summit.open.arrival': '[places.summit.open.arrival] {summit} {time}',
+  'summit.walled.arrival': '[places.summit.walled.arrival] {summit}',
+  
+  'well.dry.message': {
+    one: '[places.well.dry.message.one] {count}',
+    other: '[places.well.dry.message.other] {count}',
+  },
+};

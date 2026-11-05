@@ -1,0 +1,458 @@
+{
+  "version": 1,
+  "id": "mountain",
+  "title": "Mountain — fortified pass",
+  "context": {
+    "kind": "surface",
+    "terrain": "mountain",
+    "danger": false
+  },
+  "framingDepth": 6,
+  "scatter": {
+    "canopy": [
+      "arena_alpine_pine_0",
+      "arena_alpine_pine_1"
+    ],
+    "thicket": [
+      "arena_alpine_rubble_0",
+      "arena_alpine_boulder_0",
+      "arena_alpine_sapling_0"
+    ],
+    "ground": [
+      "arena_alpine_scrub_0"
+    ],
+    "groundCover": [
+      "arena_alpine_scrub_0"
+    ],
+    "cover": {
+      "threshold": 0.42,
+      "near": 6
+    },
+    "horizon": [
+      "arena_alpine_ridge_1",
+      "arena_alpine_pine_0",
+      "arena_alpine_ridge_2"
+    ],
+    "enclosure": 0.95,
+    "fill": {
+      "far": [
+        "arena_alpine_pine_0",
+        "arena_alpine_pine_1"
+      ],
+      "distant": [
+        "arena_far_pine_0"
+      ],
+      "under": [
+        "arena_sapling_0",
+        "arena_snow_boulder_0",
+        "arena_sapling_0",
+        "arena_cold_boulder_0",
+        "arena_sapling_0"
+      ],
+      "low": [
+        "arena_snow_tuft_0",
+        "arena_ferns_0"
+      ],
+      "from": 5,
+      "share": 0.45,
+      "deeper": 14
+    }
+  },
+  "focal": [
+    {
+      "key": "arena_brazier_0",
+      "tier": "canopy",
+      "count": 2,
+      "depth": 2
+    }
+  ],
+  "groups": [
+    {
+      "bearing": -2.25,
+      "depth": 1,
+      "pieces": [
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": -4.8,
+          "along": 0
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": -3.5999999999999996,
+          "along": 0
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": -2.4,
+          "along": 0
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": -1.2,
+          "along": 0
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": 0,
+          "along": 0
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": 1.2,
+          "along": 0
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": 2.4,
+          "along": 0
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": 3.5999999999999996,
+          "along": 0
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": 4.8,
+          "along": 0
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": -4.8,
+          "along": 1.2
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": -3.5999999999999996,
+          "along": 1.2
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": -2.4,
+          "along": 1.2
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": -1.2,
+          "along": 1.2
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": 0,
+          "along": 1.2
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": 1.2,
+          "along": 1.2
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": 2.4,
+          "along": 1.2
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": 3.5999999999999996,
+          "along": 1.2
+        },
+        {
+          "key": "arena_landing_0",
+          "tier": "thicket",
+          "across": 4.8,
+          "along": 1.2
+        },
+        {
+          "key": "arena_gateway_0",
+          "tier": "canopy",
+          "across": 0,
+          "along": 0.5,
+          "lift": 0.9
+        },
+        {
+          "key": "arena_stair_0",
+          "tier": "thicket",
+          "across": -0.62,
+          "along": -1.15
+        },
+        {
+          "key": "arena_stair_0",
+          "tier": "thicket",
+          "across": 0.62,
+          "along": -1.15
+        },
+        {
+          "key": "arena_platform_1",
+          "tier": "canopy",
+          "across": 3.7,
+          "along": 0.75,
+          "scale": 0.8,
+          "turn": -0.3,
+          "lift": 0.9
+        },
+        {
+          "key": "arena_brazier_0",
+          "tier": "canopy",
+          "across": -1.85,
+          "along": -0.1,
+          "lift": 0.9
+        },
+        {
+          "key": "arena_brazier_0",
+          "tier": "canopy",
+          "across": 1.85,
+          "along": -0.1,
+          "lift": 0.9
+        }
+      ]
+    },
+    {
+      "bearing": 2.85,
+      "depth": 2,
+      "pieces": [
+        {
+          "key": "arena_watchtower_0",
+          "tier": "canopy",
+          "across": 1.6,
+          "along": 0.7
+        },
+        {
+          "key": "arena_tent_0",
+          "tier": "canopy",
+          "across": -1,
+          "along": 0.3
+        },
+        {
+          "key": "arena_brazier_0",
+          "tier": "canopy",
+          "across": 0.5,
+          "along": -0.9
+        },
+        {
+          "key": "arena_stores_0",
+          "tier": "thicket",
+          "across": -2.3,
+          "along": -0.5
+        },
+        {
+          "key": "arena_stores_0",
+          "tier": "thicket",
+          "across": 2.9,
+          "along": -0.4
+        },
+        {
+          "key": "arena_rack_0",
+          "tier": "thicket",
+          "across": 3.2,
+          "along": 0.7
+        },
+        {
+          "key": "arena_fence_0",
+          "tier": "thicket",
+          "across": -3,
+          "along": 0.4,
+          "turn": 0.3
+        },
+        {
+          "key": "arena_fence_0",
+          "tier": "thicket",
+          "across": 4.1,
+          "along": -0.3,
+          "turn": -0.28
+        }
+      ]
+    }
+  ],
+  "wall": {
+    "keys": [
+      "arena_alpine_crag_0",
+      "arena_alpine_crag_1",
+      "arena_alpine_crag_2"
+    ],
+    "depth": 4,
+    "arcs": [
+      {
+        "bearing": 3.01,
+        "sweep": 2.18
+      },
+      {
+        "bearing": -1.15,
+        "sweep": 1.2,
+        "depth": 6,
+        "scale": 0.8
+      }
+    ]
+  },
+  "quiet": [
+    {
+      "bearing": -1.15,
+      "sweep": 1.4,
+      "density": 0.45
+    }
+  ],
+  "shelf": {
+    "edges": [
+      {
+        "bearing": -1.15,
+        "sweep": 1.4,
+        "radius": 11.6
+      },
+      {
+        "bearing": 1.6,
+        "sweep": 1.7,
+        "radius": 11.6
+      }
+    ],
+    "drop": 7,
+    "steps": 4,
+    "tread": 1,
+    "face": "#464b54",
+    "lower": "#6c705f",
+    "below": {
+      "keys": [
+        "arena_alpine_ridge_0",
+        "arena_alpine_ridge_1",
+        "arena_alpine_ridge_2"
+      ],
+      "count": 30,
+      "crest": {
+        "bearing": -1.15,
+        "sweep": 1.1,
+        "distance": 20,
+        "count": 24
+      }
+    }
+  },
+  "hills": {
+    "rises": [
+      {
+        "bearing": 3.141592653589793,
+        "sweep": 2.7,
+        "height": 7,
+        "from": 3.4,
+        "run": 6
+      },
+      {
+        "bearing": 0,
+        "sweep": 2.1,
+        "height": 10.5,
+        "from": 2.2,
+        "run": 12
+      }
+    ],
+    "from": 3,
+    "run": 9,
+    "relief": 0.6,
+    "backs": [
+      {
+        "key": "arena_alpine_crag_0",
+        "height": 4.4,
+        "reach": 2.4,
+        "width": 1.9
+      },
+      {
+        "key": "arena_alpine_crag_1",
+        "height": 4.2,
+        "reach": 2.4,
+        "width": 1.9
+      },
+      {
+        "key": "arena_alpine_crag_2",
+        "height": 4.2,
+        "reach": 2.4,
+        "width": 1.9
+      }
+    ],
+    "level": [
+      "arena_gateway_0",
+      "arena_stair_0",
+      "arena_landing_0",
+      "arena_platform_1",
+      "arena_brazier_0",
+      "arena_watchtower_0",
+      "arena_tent_0",
+      "arena_stores_0",
+      "arena_rack_0",
+      "arena_fence_0"
+    ],
+    "turf": [
+      "#6f8a4a",
+      "#647f44",
+      "#7a8a52",
+      "#5c7442",
+      "#83905a"
+    ],
+    "earth": "#5e4a36",
+    "rock": "#7d8087",
+    "snow": {
+      "above": 7,
+      "color": "#e6ecf2"
+    }
+  },
+  "ground": {
+    "floor": {
+      "tile": "#928773",
+      "ground": "#55544b"
+    },
+    "patches": [
+      {
+        "tint": [
+          1,
+          0.88,
+          0.7
+        ],
+        "threshold": 0.55,
+        "ramp": 0.14,
+        "scale": 2.4,
+        "salt": 29
+      },
+      {
+        "tint": [
+          0.7,
+          0.8,
+          0.96
+        ],
+        "threshold": 0.58,
+        "ramp": 0.13,
+        "scale": 1.8,
+        "salt": 59
+      },
+      {
+        "tint": [
+          0.8,
+          0.82,
+          0.86
+        ],
+        "threshold": 0.44,
+        "ramp": 0.3,
+        "scale": 4.2,
+        "salt": 47
+      }
+    ]
+  },
+  "haze": {
+    "color": "#818d9c",
+    "near": 46,
+    "far": 85
+  },
+  "meta": {
+    "notes": "The pipeline's parity fixture: the pass authored twice, as MOUNTAIN_PASS in sceneryKits.ts and as this file, so the migration has a control to be read against. The fight is dressed from here; arenaLayout.test.ts pins the two equal field for field and arenaParity.test.ts pins that they compose the same scene, land, safety findings and cost."
+  }
+}

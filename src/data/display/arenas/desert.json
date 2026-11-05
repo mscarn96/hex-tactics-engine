@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "id": "desert",
+  "title": "Desert — open sand, cactus stands and the nomad camp",
+  "context": {
+    "kind": "surface",
+    "terrain": "desert",
+    "danger": false
+  },
+  "scatter": {
+    "canopy": [
+      "arena_cactus_0",
+      "arena_cactus_1",
+      "arena_cactus_2",
+      "arena_cactus_7"
+    ],
+    "thicket": [
+      "arena_dry_boulder_0",
+      "arena_dry_boulder_1",
+      "arena_dry_rock_1",
+      "arena_cactus_3",
+      "arena_cactus_4",
+      "arena_cactus_6",
+      "arena_skull_0",
+      "arena_carcass_0",
+      "arena_sand_drift_0"
+    ],
+    "ground": [
+      "arena_sand_drift_0",
+      "arena_dry_stones_0",
+      "arena_desert_bones_0",
+      "arena_desert_ribs_0",
+      "arena_cactus_5"
+    ],
+    "horizon": null,
+    "enclosure": 0.2,
+    "fill": {
+      "far": [
+        "arena_cactus_2",
+        "arena_cactus_0",
+        "arena_cactus_7",
+        "arena_dry_rock_0"
+      ],
+      "distant": [
+        "arena_far_cactus_0",
+        "arena_far_cactus_0",
+        "arena_cactus_7",
+        "arena_dry_rock_0"
+      ],
+      "under": [
+        "arena_cactus_3",
+        "arena_dry_boulder_0",
+        "arena_skull_0",
+        "arena_cactus_4",
+        "arena_dry_rock_1",
+        "arena_carcass_0",
+        "arena_cactus_6",
+        "arena_dry_boulder_1"
+      ],
+      "low": [],
+      "from": 4,
+      "share": 0.16
+    },
+    "openGround": {
+      "threshold": 0.66,
+      "scale": 0.16,
+      "clearing": 3,
+      "front": true,
+      "dunes": [
+        "arena_dune_0",
+        "arena_dune_1"
+      ],
+      "dune": 0.3,
+      "wind": 0.35
+    }
+  },
+  "groups": [
+    {
+      "bearing": -2.25,
+      "depth": 2,
+      "pieces": [
+        {
+          "key": "arena_tent_0",
+          "tier": "canopy",
+          "across": 0,
+          "along": 0
+        },
+        {
+          "key": "arena_fence_0",
+          "tier": "thicket",
+          "across": -1.2,
+          "along": 0.95
+        },
+        {
+          "key": "arena_fence_0",
+          "tier": "thicket",
+          "across": 0,
+          "along": 0.95
+        },
+        {
+          "key": "arena_fence_0",
+          "tier": "thicket",
+          "across": 1.2,
+          "along": 0.95
+        },
+        {
+          "key": "arena_fence_0",
+          "tier": "thicket",
+          "across": 1.83,
+          "along": 0.3,
+          "turn": 1.5707963267948966
+        },
+        {
+          "key": "arena_stores_0",
+          "tier": "thicket",
+          "across": 1.16,
+          "along": -0.05
+        },
+        {
+          "key": "arena_stores_0",
+          "tier": "thicket",
+          "across": 1.16,
+          "along": 0.55
+        },
+        {
+          "key": "arena_rack_0",
+          "tier": "thicket",
+          "across": -0.9,
+          "along": 0.2,
+          "turn": 1.5707963267948966
+        },
+        {
+          "key": "arena_brazier_0",
+          "tier": "canopy",
+          "across": -0.3,
+          "along": -1.25
+        }
+      ]
+    }
+  ],
+  "ground": {
+    "floor": {
+      "tile": "#e0b060",
+      "ground": "#9f7943"
+    },
+    "patches": [
+      {
+        "tint": [
+          1,
+          0.82,
+          0.52
+        ],
+        "threshold": 0.55,
+        "ramp": 0.14,
+        "scale": 2.8,
+        "salt": 27
+      },
+      {
+        "tint": [
+          0.82,
+          0.86,
+          0.94
+        ],
+        "threshold": 0.58,
+        "ramp": 0.13,
+        "scale": 2,
+        "salt": 53
+      },
+      {
+        "tint": [
+          0.78,
+          0.8,
+          0.84
+        ],
+        "threshold": 0.44,
+        "ramp": 0.3,
+        "scale": 4.4,
+        "salt": 47
+      },
+      {
+        "tint": [
+          0.97,
+          0.9,
+          0.74
+        ],
+        "threshold": 0.42,
+        "ramp": 0.26,
+        "scale": 6.2,
+        "salt": 61
+      }
+    ]
+  },
+  "haze": {
+    "color": "#c8ac80",
+    "near": 46,
+    "far": 58
+  },
+  "meta": {
+    "notes": "Open sand with stands of cactus, rock and bone, and the nomad camp as its landmark, after two reviews: 2026-10-21 \"remove the walls; just cactuses, bones and some rocks\", then 2026-10-22 \"too much props - there should be some free land on desert, bring back the desert camp, thin the cactus stand, drop the clutter in front of the board\". The sandstone shoulders and the ruin are gone; the camp is the editor-native pass's, at its own bearing and depth. Open ground (OpenGround) leaves irregular patches of sand, a clearing round the camp and the whole strip in front of the board open, with flat dunes across one wind; an edge fill dresses the rest of the reach. Floor, patches and haze are the editor-native pass's. CANYON in sceneryKits.ts is the fallback and says the same. Evidence: the private project notes."
+  }
+}

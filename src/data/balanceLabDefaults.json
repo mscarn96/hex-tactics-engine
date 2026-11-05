@@ -1,0 +1,346 @@
+{
+  "baseSeed": 1,
+  "encounters": [
+    {
+      "id": "troll",
+      "runs": 20000,
+      "heroes": {
+        "min": 2,
+        "max": 2
+      },
+      "levelSum": {
+        "min": 20,
+        "max": 24
+      },
+      "legendary": {
+        "min": 1,
+        "max": 1
+      },
+      "epic": {
+        "min": 2,
+        "max": 3
+      },
+      "rare": {
+        "min": 6,
+        "max": 8
+      },
+      "itemLevels": {
+        "common": {
+          "avg": 6,
+          "spread": 1
+        },
+        "rare": {
+          "avg": 9,
+          "spread": 1
+        },
+        "epic": {
+          "avg": 12,
+          "spread": 1
+        },
+        "legendary": {
+          "avg": 20,
+          "spread": 1
+        }
+      }
+    },
+    {
+      "id": "dragon",
+      "runs": 20000,
+      "heroes": {
+        "min": 3,
+        "max": 3
+      },
+      "levelSum": {
+        "min": 39,
+        "max": 45
+      },
+      "legendary": {
+        "min": 3,
+        "max": 4
+      },
+      "epic": {
+        "min": 5,
+        "max": 9
+      },
+      "rare": {
+        "min": 5,
+        "max": 10
+      },
+      "itemLevels": {
+        "common": {
+          "avg": 9,
+          "spread": 1
+        },
+        "rare": {
+          "avg": 10,
+          "spread": 1
+        },
+        "epic": {
+          "avg": 12,
+          "spread": 1
+        },
+        "legendary": {
+          "avg": 20,
+          "spread": 1
+        }
+      }
+    },
+    {
+      "id": "heart",
+      "runs": 20000,
+      "heroes": {
+        "min": 4,
+        "max": 4
+      },
+      "levelSum": {
+        "min": 63,
+        "max": 72
+      },
+      "legendary": {
+        "min": 4,
+        "max": 8
+      },
+      "epic": {
+        "min": 7,
+        "max": 11
+      },
+      "rare": {
+        "min": 5,
+        "max": 13
+      },
+      "itemLevels": {
+        "common": {
+          "avg": 12,
+          "spread": 1
+        },
+        "rare": {
+          "avg": 10,
+          "spread": 1
+        },
+        "epic": {
+          "avg": 15,
+          "spread": 1
+        },
+        "legendary": {
+          "avg": 21,
+          "spread": 1
+        }
+      }
+    },
+    {
+      "id": "castle",
+      "runs": 20000,
+      "heroes": {
+        "min": 4,
+        "max": 4
+      },
+      "levelSum": {
+        "min": 66,
+        "max": 74
+      },
+      "legendary": {
+        "min": 7,
+        "max": 10
+      },
+      "epic": {
+        "min": 8,
+        "max": 11
+      },
+      "rare": {
+        "min": 6,
+        "max": 11
+      },
+      "itemLevels": {
+        "common": {
+          "avg": 15,
+          "spread": 1
+        },
+        "rare": {
+          "avg": 11,
+          "spread": 1
+        },
+        "epic": {
+          "avg": 16,
+          "spread": 1
+        },
+        "legendary": {
+          "avg": 20,
+          "spread": 1
+        }
+      },
+      "tier": 1
+    }
+  ],
+  "responds": true,
+  "constraints": {
+    "excludeClasses": [],
+    "excludePaths": [],
+    "allowDuplicates": false
+  },
+  "bands": {
+    "1": {
+      "heroes": {
+        "min": 4,
+        "max": 4
+      },
+      "levelSum": {
+        "min": 80,
+        "max": 84
+      },
+      "legendary": {
+        "min": 8,
+        "max": 10
+      },
+      "epic": {
+        "min": 12,
+        "max": 16
+      },
+      "rare": {
+        "min": 6,
+        "max": 10
+      },
+      "itemLevels": {
+        "common": {
+          "avg": 18,
+          "spread": 2
+        },
+        "rare": {
+          "avg": 19,
+          "spread": 2
+        },
+        "epic": {
+          "avg": 20,
+          "spread": 2
+        },
+        "legendary": {
+          "avg": 22,
+          "spread": 2
+        }
+      },
+      "budgetHeroes": 4
+    },
+    "2": {
+      "heroes": {
+        "min": 4,
+        "max": 4
+      },
+      "levelSum": {
+        "min": 100,
+        "max": 104
+      },
+      "legendary": {
+        "min": 8,
+        "max": 10
+      },
+      "epic": {
+        "min": 12,
+        "max": 16
+      },
+      "rare": {
+        "min": 6,
+        "max": 10
+      },
+      "itemLevels": {
+        "common": {
+          "avg": 23,
+          "spread": 2
+        },
+        "rare": {
+          "avg": 24,
+          "spread": 2
+        },
+        "epic": {
+          "avg": 25,
+          "spread": 2
+        },
+        "legendary": {
+          "avg": 27,
+          "spread": 2
+        }
+      },
+      "budgetHeroes": 4
+    },
+    "3": {
+      "heroes": {
+        "min": 4,
+        "max": 4
+      },
+      "levelSum": {
+        "min": 120,
+        "max": 124
+      },
+      "legendary": {
+        "min": 8,
+        "max": 10
+      },
+      "epic": {
+        "min": 12,
+        "max": 16
+      },
+      "rare": {
+        "min": 6,
+        "max": 10
+      },
+      "itemLevels": {
+        "common": {
+          "avg": 28,
+          "spread": 2
+        },
+        "rare": {
+          "avg": 29,
+          "spread": 2
+        },
+        "epic": {
+          "avg": 30,
+          "spread": 2
+        },
+        "legendary": {
+          "avg": 32,
+          "spread": 2
+        }
+      },
+      "budgetHeroes": 4
+    },
+    "4": {
+      "heroes": {
+        "min": 4,
+        "max": 4
+      },
+      "levelSum": {
+        "min": 140,
+        "max": 144
+      },
+      "legendary": {
+        "min": 8,
+        "max": 10
+      },
+      "epic": {
+        "min": 12,
+        "max": 16
+      },
+      "rare": {
+        "min": 6,
+        "max": 10
+      },
+      "itemLevels": {
+        "common": {
+          "avg": 33,
+          "spread": 2
+        },
+        "rare": {
+          "avg": 34,
+          "spread": 2
+        },
+        "epic": {
+          "avg": 35,
+          "spread": 2
+        },
+        "legendary": {
+          "avg": 37,
+          "spread": 2
+        }
+      },
+      "budgetHeroes": 4
+    }
+  }
+}

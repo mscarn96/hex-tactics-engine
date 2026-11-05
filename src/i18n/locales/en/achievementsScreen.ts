@@ -1,0 +1,22 @@
+/** The achievements book. */
+export const achievementsScreen = {
+  title: 'Achievements',
+  hint: 'Medium or Hard only · Earned achievements survive every campaign',
+  close: 'Close Achievements',
+  earnedCount: '{earned} / {total} earned',
+  'filter.all': 'All',
+  'filter.earned': 'Earned',
+  'filter.locked': 'Locked',
+  'filter.show.all': 'Show all achievements',
+  'filter.show.earned': 'Show earned achievements',
+  'filter.show.locked': 'Show locked achievements',
+  'error.save': 'Achievements could not be saved. Retry to keep this progress.',
+  'error.load': 'Achievements could not be loaded. Please retry.',
+  retry: 'Retry achievement save',
+  empty: 'No achievements here yet. Your story is still being written.',
+  earned: 'Earned',
+  locked: 'Locked',
+  'rule.hardcore': 'Hardcore only · Hard with permanent save loss',
+  'rule.normal': 'Medium or Hard',
+  earnedOn: '{rule} · Earned {date}',
+};

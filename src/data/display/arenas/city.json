@@ -1,0 +1,3513 @@
+{
+  "version": 1,
+  "id": "city",
+  "title": "The city — sacked at dusk",
+  "context": {
+    "kind": "location",
+    "location": "city"
+  },
+  "framingDepth": 5,
+  "scatter": {
+    "canopy": [],
+    "thicket": [
+      "arena_city_rubble_0"
+    ],
+    "ground": [],
+    "horizon": null,
+    "fill": {
+      "far": [],
+      "under": [
+        "arena_crates_0",
+        "arena_city_rubble_0",
+        "arena_burrow_stakes_0",
+        "arena_rack_0",
+        "arena_burning_debris_0"
+      ],
+      "low": [],
+      "from": 3,
+      "share": 0
+    },
+    "openGround": {
+      "threshold": 0,
+      "scale": 0.17,
+      "front": true,
+      "dunes": [],
+      "dune": 0,
+      "wind": 0
+    }
+  },
+  "placements": [
+    {
+      "key": "town_house_0",
+      "tier": "canopy",
+      "x": -6.77,
+      "z": -8.06,
+      "turn": 1.05
+    },
+    {
+      "key": "arena_burning_house_1",
+      "tier": "canopy",
+      "x": -7.49,
+      "z": -6.81,
+      "turn": 1.07
+    },
+    {
+      "key": "town_house_0",
+      "tier": "canopy",
+      "x": -8.23,
+      "z": -5.54,
+      "turn": 1.02
+    },
+    {
+      "key": "arena_burning_house_1",
+      "tier": "canopy",
+      "x": -9,
+      "z": -4.17,
+      "turn": 1.51
+    },
+    {
+      "key": "town_house_1",
+      "tier": "canopy",
+      "x": -9.12,
+      "z": -2.68,
+      "turn": 1.53
+    },
+    {
+      "key": "town_house_1",
+      "tier": "canopy",
+      "x": -9.15,
+      "z": -1.22,
+      "turn": 1.69
+    },
+    {
+      "key": "arena_burning_house_0",
+      "tier": "canopy",
+      "x": -9.07,
+      "z": 0.39,
+      "turn": 1.72
+    },
+    {
+      "key": "town_house_0",
+      "tier": "canopy",
+      "x": -8.7,
+      "z": 1.92,
+      "turn": 1.73
+    },
+    {
+      "key": "arena_burning_house_1",
+      "tier": "canopy",
+      "x": -8.22,
+      "z": 3.35,
+      "turn": 2.04
+    },
+    {
+      "key": "town_house_3",
+      "tier": "canopy",
+      "x": -7.57,
+      "z": 4.67,
+      "turn": 2.01
+    },
+    {
+      "key": "arena_market_stall_0",
+      "tier": "thicket",
+      "x": -6.9,
+      "z": 6,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_burning_house_0",
+      "tier": "canopy",
+      "x": -6.23,
+      "z": 7.47,
+      "turn": 1.97
+    },
+    {
+      "key": "arena_burning_house_1",
+      "tier": "canopy",
+      "x": -6.84,
+      "z": -10.37,
+      "turn": -2.1
+    },
+    {
+      "key": "town_house_2",
+      "tier": "canopy",
+      "x": -7.63,
+      "z": -8.97,
+      "turn": -2.11
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": -8.36,
+      "z": -7.71,
+      "turn": 1.76
+    },
+    {
+      "key": "arena_burning_house_1",
+      "tier": "canopy",
+      "x": -9.89,
+      "z": -5.06,
+      "turn": -2.1
+    },
+    {
+      "key": "town_house_2",
+      "tier": "canopy",
+      "x": -10.24,
+      "z": -3.75,
+      "turn": -1.64
+    },
+    {
+      "key": "arena_burning_house_1",
+      "tier": "canopy",
+      "x": -10.35,
+      "z": -2.31,
+      "turn": -1.61
+    },
+    {
+      "key": "town_house_1",
+      "tier": "canopy",
+      "x": -10.29,
+      "z": -0.73,
+      "turn": -1.42
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -10.56,
+      "z": -9.4,
+      "turn": 1.08
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -11.33,
+      "z": -8.06,
+      "turn": 1.01
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -12.02,
+      "z": -6.86,
+      "turn": 1.04
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": -12.74,
+      "z": -5.62,
+      "turn": -0.11
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -12.97,
+      "z": -4.09,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": -13.08,
+      "z": -2.7,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -13.12,
+      "z": -1.12,
+      "turn": 1.69
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -12.92,
+      "z": 0.32,
+      "turn": 1.72
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -12.7,
+      "z": 1.82,
+      "turn": 1.72
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -12.5,
+      "z": 3.24,
+      "turn": 1.73
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": -12.05,
+      "z": 4.53,
+      "turn": 2.31
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -11.4,
+      "z": 5.83,
+      "turn": 2.03
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -10.77,
+      "z": 7.09,
+      "turn": 2.01
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -10.17,
+      "z": 8.34,
+      "turn": 1.99
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -13.93,
+      "z": -5.96,
+      "turn": -2.06
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -14.38,
+      "z": -1.43,
+      "turn": -1.66
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -14.16,
+      "z": 0.07,
+      "turn": -1.44
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -13.94,
+      "z": 1.65,
+      "turn": -1.41
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -13.41,
+      "z": 4.5,
+      "turn": -1.14
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": -12.77,
+      "z": 5.77,
+      "turn": -1.15
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -12.09,
+      "z": 7.15,
+      "turn": -1.11
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -11.47,
+      "z": 8.4,
+      "turn": -1.15
+    },
+    {
+      "key": "arena_barricade_0",
+      "tier": "thicket",
+      "x": -15,
+      "z": -6.75,
+      "turn": -0.51
+    },
+    {
+      "key": "arena_barricade_0",
+      "tier": "thicket",
+      "x": -15.65,
+      "z": -2.98,
+      "turn": -2.26
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -14.74,
+      "z": -10.06,
+      "turn": 1.06
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -15.47,
+      "z": -8.79,
+      "turn": 1.04
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -16.24,
+      "z": -7.46,
+      "turn": 1.08
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -16.78,
+      "z": -6.02,
+      "turn": 1.47
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -16.91,
+      "z": -4.44,
+      "turn": 1.48
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": -17.02,
+      "z": -2.92,
+      "turn": 1.45
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -17.14,
+      "z": -1.37,
+      "turn": 1.5
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -16.93,
+      "z": 0.13,
+      "turn": 1.71
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -16.72,
+      "z": 1.61,
+      "turn": 1.75
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -16.49,
+      "z": 3.2,
+      "turn": 1.71
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -16.27,
+      "z": 4.75,
+      "turn": 1.72
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": -15.64,
+      "z": 6.18,
+      "turn": 2.04
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -14.97,
+      "z": 7.53,
+      "turn": 2.05
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -17.92,
+      "z": -6.9,
+      "turn": -1.63
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": -18.03,
+      "z": -5.41,
+      "turn": 2.95
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -18.15,
+      "z": -3.91,
+      "turn": -1.62
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -18.26,
+      "z": -2.51,
+      "turn": -1.61
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -17.86,
+      "z": 2.09,
+      "turn": -1.46
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -17.64,
+      "z": 3.68,
+      "turn": -1.39
+    },
+    {
+      "key": "arena_market_stall_0",
+      "tier": "thicket",
+      "x": -18.1,
+      "z": -9.86,
+      "turn": -1.19
+    },
+    {
+      "key": "arena_barricade_0",
+      "tier": "thicket",
+      "x": -19.8,
+      "z": -2.73,
+      "turn": -2.4
+    },
+    {
+      "key": "arena_street_fire_0",
+      "tier": "thicket",
+      "x": -19.16,
+      "z": 3.98,
+      "turn": -1.36
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": -17.82,
+      "z": 7.09,
+      "turn": -0.76
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": -19.49,
+      "z": -9.73,
+      "turn": 1.05
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -20.25,
+      "z": -8.42,
+      "turn": 1.01
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -20.66,
+      "z": -7.13,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -20.78,
+      "z": -5.59,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -20.9,
+      "z": -4.02,
+      "turn": 1.47
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": -21.01,
+      "z": -2.57,
+      "turn": 1.46
+    },
+    {
+      "key": "arena_city_rubble_0",
+      "tier": "thicket",
+      "x": -21.08,
+      "z": -1,
+      "turn": 0.54
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -20.88,
+      "z": 0.47,
+      "turn": 1.74
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -20.67,
+      "z": 1.93,
+      "turn": 1.67
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -20.46,
+      "z": 3.39,
+      "turn": 1.75
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": -20.24,
+      "z": 4.92,
+      "turn": 1.72
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -19.97,
+      "z": 6.35,
+      "turn": 2.02
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -19.31,
+      "z": 7.67,
+      "turn": 2.05
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -21.82,
+      "z": -7.71,
+      "turn": -1.67
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -21.94,
+      "z": -6.1,
+      "turn": -1.66
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -22.06,
+      "z": -4.6,
+      "turn": -1.62
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -22.18,
+      "z": -3,
+      "turn": -1.67
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -22.29,
+      "z": -1.59,
+      "turn": -1.65
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -22.18,
+      "z": -0.19,
+      "turn": -1.42
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -21.96,
+      "z": 1.37,
+      "turn": -1.44
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -21.73,
+      "z": 2.96,
+      "turn": -1.45
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -21.51,
+      "z": 4.48,
+      "turn": -1.43
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -21.3,
+      "z": 6.01,
+      "turn": -1.46
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -20.79,
+      "z": 7.4,
+      "turn": -1.13
+    },
+    {
+      "key": "arena_street_fire_0",
+      "tier": "thicket",
+      "x": -22.7,
+      "z": -9.88,
+      "turn": -0.56
+    },
+    {
+      "key": "arena_street_fire_0",
+      "tier": "thicket",
+      "x": -23.21,
+      "z": -6.25,
+      "turn": 2.92
+    },
+    {
+      "key": "arena_city_rubble_0",
+      "tier": "thicket",
+      "x": -23.53,
+      "z": -2.75,
+      "turn": 2.77
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -23.97,
+      "z": -9.88,
+      "turn": 1.02
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -24.52,
+      "z": -8.49,
+      "turn": 1.46
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -24.63,
+      "z": -7.01,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -24.75,
+      "z": -5.43,
+      "turn": 1.47
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -24.88,
+      "z": -3.82,
+      "turn": 1.48
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -24.99,
+      "z": -2.38,
+      "turn": 1.48
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -25.05,
+      "z": -0.81,
+      "turn": 1.7
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -24.82,
+      "z": 0.78,
+      "turn": 1.74
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -24.6,
+      "z": 2.33,
+      "turn": 1.71
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": -24.37,
+      "z": 3.9,
+      "turn": -2.26
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -24.18,
+      "z": 5.29,
+      "turn": 1.73
+    },
+    {
+      "key": "arena_city_rubble_0",
+      "tier": "thicket",
+      "x": -25.08,
+      "z": -10.36,
+      "turn": 0.46
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": -25.67,
+      "z": -9.11,
+      "turn": -1.61
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -25.79,
+      "z": -7.63,
+      "turn": -1.61
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -25.89,
+      "z": -6.25,
+      "turn": -1.68
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -26,
+      "z": -4.81,
+      "turn": -1.64
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -26.12,
+      "z": -3.35,
+      "turn": -1.67
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -26.23,
+      "z": -1.81,
+      "turn": -1.62
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -26.18,
+      "z": -0.25,
+      "turn": -1.43
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": -27.27,
+      "z": -3.4,
+      "turn": 1.85
+    },
+    {
+      "key": "arena_city_rubble_0",
+      "tier": "thicket",
+      "x": -27.43,
+      "z": 0,
+      "turn": -2.81
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": -28.35,
+      "z": -10.14,
+      "turn": 1.49
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -28.46,
+      "z": -8.76,
+      "turn": 1.5
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -28.57,
+      "z": -7.34,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": -28.69,
+      "z": -5.73,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": -28.81,
+      "z": -4.2,
+      "turn": 1.48
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -28.92,
+      "z": -2.69,
+      "turn": 1.46
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -29.04,
+      "z": -1.22,
+      "turn": 1.5
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -29.68,
+      "z": -8.48,
+      "turn": -1.62
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": -29.8,
+      "z": -6.98,
+      "turn": -1.65
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -29.91,
+      "z": -5.47,
+      "turn": -1.65
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": -30.03,
+      "z": -3.98,
+      "turn": 1.26
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -30.15,
+      "z": -2.41,
+      "turn": -1.66
+    },
+    {
+      "key": "arena_barricade_0",
+      "tier": "thicket",
+      "x": -30.9,
+      "z": -7.67,
+      "turn": -2.4
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": -31.66,
+      "z": -3.64,
+      "turn": -1.86
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -32.38,
+      "z": -9.24,
+      "turn": 1.49
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": -32.49,
+      "z": -7.81,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -32.6,
+      "z": -6.4,
+      "turn": 1.46
+    },
+    {
+      "key": "arena_city_rubble_0",
+      "tier": "thicket",
+      "x": -33.51,
+      "z": -10.25,
+      "turn": -2.6
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": -33.62,
+      "z": -8.81,
+      "turn": -1.65
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -33.73,
+      "z": -7.35,
+      "turn": -1.68
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": -36.3,
+      "z": -9.85,
+      "turn": 1.49
+    },
+    {
+      "key": "arena_street_fire_0",
+      "tier": "thicket",
+      "x": 3.81,
+      "z": -7.21,
+      "turn": -1.92
+    },
+    {
+      "key": "town_house_1",
+      "tier": "canopy",
+      "x": 4.59,
+      "z": -5.85,
+      "turn": -1.01
+    },
+    {
+      "key": "arena_burning_house_0",
+      "tier": "canopy",
+      "x": 5.39,
+      "z": -4.47,
+      "turn": -1.06
+    },
+    {
+      "key": "town_house_3",
+      "tier": "canopy",
+      "x": 6.12,
+      "z": -3.2,
+      "turn": -1.02
+    },
+    {
+      "key": "arena_burning_house_1",
+      "tier": "canopy",
+      "x": 6.9,
+      "z": -1.85,
+      "turn": -1.08
+    },
+    {
+      "key": "town_house_2",
+      "tier": "canopy",
+      "x": 7.68,
+      "z": -0.5,
+      "turn": -1.02
+    },
+    {
+      "key": "arena_burning_house_0",
+      "tier": "canopy",
+      "x": 8.44,
+      "z": 0.83,
+      "turn": -1.07
+    },
+    {
+      "key": "town_house_2",
+      "tier": "canopy",
+      "x": 9.06,
+      "z": 2.21,
+      "turn": -1.38
+    },
+    {
+      "key": "town_house_0",
+      "tier": "canopy",
+      "x": 9.29,
+      "z": 3.68,
+      "turn": -1.45
+    },
+    {
+      "key": "arena_burning_house_0",
+      "tier": "canopy",
+      "x": 9.33,
+      "z": 5.07,
+      "turn": -1.69
+    },
+    {
+      "key": "arena_burning_house_1",
+      "tier": "canopy",
+      "x": 9.17,
+      "z": 6.66,
+      "turn": -1.68
+    },
+    {
+      "key": "town_house_2",
+      "tier": "canopy",
+      "x": 9.02,
+      "z": 8.23,
+      "turn": -1.65
+    },
+    {
+      "key": "town_house_0",
+      "tier": "canopy",
+      "x": 5.47,
+      "z": -6.73,
+      "turn": 2.1
+    },
+    {
+      "key": "town_house_3",
+      "tier": "canopy",
+      "x": 7.73,
+      "z": -2.8,
+      "turn": 2.1
+    },
+    {
+      "key": "arena_burning_house_1",
+      "tier": "canopy",
+      "x": 8.48,
+      "z": -1.5,
+      "turn": 2.11
+    },
+    {
+      "key": "arena_city_rubble_0",
+      "tier": "thicket",
+      "x": 9.18,
+      "z": -0.3,
+      "turn": -1.26
+    },
+    {
+      "key": "town_house_3",
+      "tier": "canopy",
+      "x": 9.96,
+      "z": 1.06,
+      "turn": 2.07
+    },
+    {
+      "key": "town_house_1",
+      "tier": "canopy",
+      "x": 10.3,
+      "z": 2.38,
+      "turn": 1.72
+    },
+    {
+      "key": "town_house_1",
+      "tier": "canopy",
+      "x": 10.53,
+      "z": 3.87,
+      "turn": 1.74
+    },
+    {
+      "key": "arena_city_rubble_0",
+      "tier": "thicket",
+      "x": 10.36,
+      "z": 6.86,
+      "turn": 3.07
+    },
+    {
+      "key": "arena_barricade_0",
+      "tier": "thicket",
+      "x": 5.83,
+      "z": -8.83,
+      "turn": -1.32
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 7.8,
+      "z": -5.96,
+      "turn": -1.88
+    },
+    {
+      "key": "arena_street_fire_0",
+      "tier": "thicket",
+      "x": 11.58,
+      "z": 2.9,
+      "turn": 2.83
+    },
+    {
+      "key": "arena_market_stall_0",
+      "tier": "thicket",
+      "x": 11.89,
+      "z": 6.69,
+      "turn": -3
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 7.05,
+      "z": -9.5,
+      "turn": -1.02
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 7.79,
+      "z": -8.21,
+      "turn": -1.01
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": 8.49,
+      "z": -7,
+      "turn": -1.07
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 9.27,
+      "z": -5.64,
+      "turn": -1.04
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 9.97,
+      "z": -4.43,
+      "turn": -1.04
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": 10.72,
+      "z": -3.12,
+      "turn": -1.08
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 11.52,
+      "z": -1.74,
+      "turn": -1.07
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 12.23,
+      "z": -0.5,
+      "turn": -1.03
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 12.85,
+      "z": 0.85,
+      "turn": -1.42
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 13.09,
+      "z": 2.39,
+      "turn": -1.38
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 13.31,
+      "z": 3.83,
+      "turn": -1.4
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": 13.28,
+      "z": 5.26,
+      "turn": -1.66
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 13.15,
+      "z": 6.64,
+      "turn": -1.65
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 12.99,
+      "z": 8.19,
+      "turn": -1.63
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 9.68,
+      "z": -7.34,
+      "turn": -1.82
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 11.22,
+      "z": -4.66,
+      "turn": 2.09
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 11.93,
+      "z": -3.44,
+      "turn": 2.09
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": 13.49,
+      "z": -0.72,
+      "turn": 2.13
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": 14.52,
+      "z": 4.96,
+      "turn": 1.46
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 14.37,
+      "z": 6.45,
+      "turn": 1.46
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 14.22,
+      "z": 7.91,
+      "turn": 1.44
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 13.69,
+      "z": -3.04,
+      "turn": 1.26
+    },
+    {
+      "key": "arena_street_fire_0",
+      "tier": "thicket",
+      "x": 15.93,
+      "z": 2.93,
+      "turn": 0.63
+    },
+    {
+      "key": "arena_barricade_0",
+      "tier": "thicket",
+      "x": 15.6,
+      "z": 6.3,
+      "turn": 2.55
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 11.1,
+      "z": -10.37,
+      "turn": -1.05
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 11.85,
+      "z": -9.07,
+      "turn": -1.27
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 12.58,
+      "z": -7.81,
+      "turn": -1.01
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 13.39,
+      "z": -6.41,
+      "turn": -1.06
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": 14.19,
+      "z": -5.02,
+      "turn": -1.01
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 14.95,
+      "z": -3.7,
+      "turn": -1.03
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 15.67,
+      "z": -2.46,
+      "turn": 1.92
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 16.37,
+      "z": -1.22,
+      "turn": -1.01
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 16.74,
+      "z": 0.14,
+      "turn": -1.41
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 16.96,
+      "z": 1.56,
+      "turn": -1.46
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": 17.2,
+      "z": 3.14,
+      "turn": -1.45
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 17.32,
+      "z": 4.59,
+      "turn": -1.7
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 17.17,
+      "z": 6.09,
+      "turn": -1.66
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 17.02,
+      "z": 7.6,
+      "turn": -1.65
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 15.07,
+      "z": -5.89,
+      "turn": 2.18
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 16.61,
+      "z": -3.23,
+      "turn": -3.11
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 17.83,
+      "z": -0.64,
+      "turn": 1.75
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 18.06,
+      "z": 0.83,
+      "turn": 1.71
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": 18.27,
+      "z": 2.23,
+      "turn": 1.69
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 18.5,
+      "z": 3.73,
+      "turn": 1.71
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 18.47,
+      "z": 5.19,
+      "turn": 1.47
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 18.31,
+      "z": 6.76,
+      "turn": 1.5
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 18.17,
+      "z": 8.18,
+      "turn": 1.46
+    },
+    {
+      "key": "arena_city_rubble_0",
+      "tier": "thicket",
+      "x": 18.81,
+      "z": -1.46,
+      "turn": 0.71
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": 19.67,
+      "z": 1.89,
+      "turn": 2.83
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 16.03,
+      "z": -9.73,
+      "turn": -1.04
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 16.77,
+      "z": -8.45,
+      "turn": -1.05
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": 17.48,
+      "z": -7.22,
+      "turn": -1.03
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 18.23,
+      "z": -5.92,
+      "turn": -1.08
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 19.03,
+      "z": -4.53,
+      "turn": -1.05
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 19.74,
+      "z": -3.29,
+      "turn": -1.02
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 20.41,
+      "z": -1.98,
+      "turn": -1.4
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 20.63,
+      "z": -0.51,
+      "turn": -1.43
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": 20.88,
+      "z": 1.07,
+      "turn": -1.42
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 21.11,
+      "z": 2.59,
+      "turn": -1.43
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 21.33,
+      "z": 4.01,
+      "turn": -1.42
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 21.19,
+      "z": 5.56,
+      "turn": -1.68
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": 21.04,
+      "z": 7.08,
+      "turn": -1.69
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 19.45,
+      "z": -6.21,
+      "turn": 2.08
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 20.99,
+      "z": -3.53,
+      "turn": 2.11
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 22.45,
+      "z": 5.05,
+      "turn": 1.45
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 22.31,
+      "z": 6.49,
+      "turn": 1.48
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 22.15,
+      "z": 8.1,
+      "turn": 1.48
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 18.62,
+      "z": -10.24,
+      "turn": -1.5
+    },
+    {
+      "key": "arena_street_fire_0",
+      "tier": "thicket",
+      "x": 20.49,
+      "z": -7.51,
+      "turn": -2.63
+    },
+    {
+      "key": "arena_market_stall_0",
+      "tier": "thicket",
+      "x": 22.86,
+      "z": -1.06,
+      "turn": 2.14
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 23.84,
+      "z": 5.58,
+      "turn": -2.97
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 20.69,
+      "z": -9.57,
+      "turn": -1.05
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 21.47,
+      "z": -8.2,
+      "turn": -1.07
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 22.27,
+      "z": -6.82,
+      "turn": -1.04
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 23.04,
+      "z": -5.48,
+      "turn": -1.04
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": 23.81,
+      "z": -4.14,
+      "turn": -1.04
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 24.3,
+      "z": -2.68,
+      "turn": -1.4
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 24.53,
+      "z": -1.15,
+      "turn": -1.44
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 24.76,
+      "z": 0.36,
+      "turn": -1.38
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 24.99,
+      "z": 1.85,
+      "turn": -3.02
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 25.21,
+      "z": 3.25,
+      "turn": -1.38
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": 25.24,
+      "z": 4.79,
+      "turn": -1.63
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 24.68,
+      "z": -5.03,
+      "turn": 2.09
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 25.36,
+      "z": -3.68,
+      "turn": 1.69
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 25.57,
+      "z": -2.3,
+      "turn": 1.72
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 25.8,
+      "z": -0.81,
+      "turn": 1.71
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": 26.03,
+      "z": 0.7,
+      "turn": 1.71
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 26.26,
+      "z": 2.17,
+      "turn": 1.76
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 25.05,
+      "z": -6.57,
+      "turn": -1.97
+    },
+    {
+      "key": "arena_barricade_0",
+      "tier": "thicket",
+      "x": 26.73,
+      "z": -3.69,
+      "turn": -0.87
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": 26.96,
+      "z": -0.08,
+      "turn": 2.97
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 25.27,
+      "z": -9.52,
+      "turn": -1.06
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 26.08,
+      "z": -8.12,
+      "turn": -1.07
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 26.83,
+      "z": -6.81,
+      "turn": -1.08
+    },
+    {
+      "key": "arena_far_house_2",
+      "tier": "canopy",
+      "x": 27.64,
+      "z": -5.42,
+      "turn": -1.08
+    },
+    {
+      "key": "arena_far_burning_house_1",
+      "tier": "canopy",
+      "x": 28.11,
+      "z": -3.9,
+      "turn": -1.39
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 28.33,
+      "z": -2.43,
+      "turn": -1.44
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 28.58,
+      "z": -0.84,
+      "turn": -1.43
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 26.39,
+      "z": -9.99,
+      "turn": -3.02
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 29.18,
+      "z": -4.8,
+      "turn": 1.75
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 29.41,
+      "z": -3.3,
+      "turn": 1.76
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 29.62,
+      "z": -1.93,
+      "turn": 1.73
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 28.25,
+      "z": -9.45,
+      "turn": 1.79
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 29.58,
+      "z": -6.61,
+      "turn": -2.19
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 30.57,
+      "z": -3.89,
+      "turn": -2.87
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 29.79,
+      "z": -9.59,
+      "turn": -1.01
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 30.51,
+      "z": -8.34,
+      "turn": -1.07
+    },
+    {
+      "key": "arena_far_burning_house_0",
+      "tier": "canopy",
+      "x": 31.24,
+      "z": -7.08,
+      "turn": -1.08
+    },
+    {
+      "key": "arena_far_house_3",
+      "tier": "canopy",
+      "x": 31.81,
+      "z": -5.8,
+      "turn": -1.39
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 32.04,
+      "z": -4.28,
+      "turn": -1.39
+    },
+    {
+      "key": "arena_far_house_0",
+      "tier": "canopy",
+      "x": 32.9,
+      "z": -6.58,
+      "turn": 1.73
+    },
+    {
+      "key": "arena_far_house_1",
+      "tier": "canopy",
+      "x": 34.53,
+      "z": -9.27,
+      "turn": -1.06
+    },
+    {
+      "key": "arena_street_litter_0",
+      "tier": "ground",
+      "x": -6.25,
+      "z": -7.14,
+      "turn": 3.07
+    },
+    {
+      "key": "arena_street_litter_0",
+      "tier": "ground",
+      "x": -7.25,
+      "z": -5.32,
+      "turn": 2.45
+    },
+    {
+      "key": "arena_street_litter_0",
+      "tier": "ground",
+      "x": -7.98,
+      "z": -4.13,
+      "turn": -2.05
+    },
+    {
+      "key": "arena_street_litter_0",
+      "tier": "ground",
+      "x": -8.15,
+      "z": -1.95,
+      "turn": 0.63
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": -7.36,
+      "z": 1.69,
+      "turn": -1.74
+    },
+    {
+      "key": "arena_street_litter_0",
+      "tier": "ground",
+      "x": -7.15,
+      "z": 3.54,
+      "turn": 0.57
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": -5.98,
+      "z": 4.92,
+      "turn": -0.43
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": -5.58,
+      "z": 6.3,
+      "turn": 1.24
+    },
+    {
+      "key": "arena_street_litter_0",
+      "tier": "ground",
+      "x": 2.47,
+      "z": -7.29,
+      "turn": 0.74
+    },
+    {
+      "key": "arena_street_litter_0",
+      "tier": "ground",
+      "x": 3.58,
+      "z": -5.61,
+      "turn": 2.42
+    },
+    {
+      "key": "arena_street_litter_0",
+      "tier": "ground",
+      "x": 4.2,
+      "z": -4.35,
+      "turn": -0.85
+    },
+    {
+      "key": "arena_street_litter_0",
+      "tier": "ground",
+      "x": 5.06,
+      "z": -2.76,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_burning_debris_0",
+      "tier": "thicket",
+      "x": 8.15,
+      "z": 5.38,
+      "turn": -1.33
+    },
+    {
+      "key": "arena_street_fire_0",
+      "tier": "thicket",
+      "x": 7.74,
+      "z": 7.3,
+      "turn": -2.48
+    },
+    {
+      "key": "arena_breached_wall_0",
+      "tier": "canopy",
+      "x": 3.6,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": 5.6,
+      "z": -11.4
+    },
+    {
+      "key": "arena_breached_wall_0",
+      "tier": "canopy",
+      "x": 7.6,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": 9.6,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -3.6,
+      "z": -11.4
+    },
+    {
+      "key": "arena_breached_wall_0",
+      "tier": "canopy",
+      "x": -5.6,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -7.6,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -9.6,
+      "z": -11.4
+    },
+    {
+      "key": "town_tower",
+      "tier": "canopy",
+      "x": -11.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_tower",
+      "tier": "canopy",
+      "x": 11.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -13.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -15.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -17.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_tower",
+      "tier": "canopy",
+      "x": -19.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -21.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -23.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -25.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_tower",
+      "tier": "canopy",
+      "x": -27.4,
+      "z": -11.4
+    },
+    {
+      "key": "arena_breached_wall_0",
+      "tier": "canopy",
+      "x": -29.4,
+      "z": -11.4,
+      "turn": 3.14
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -31.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": -33.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_tower",
+      "tier": "canopy",
+      "x": -35.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": 13.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": 15.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": 17.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_tower",
+      "tier": "canopy",
+      "x": 19.4,
+      "z": -11.4
+    },
+    {
+      "key": "arena_breached_wall_0",
+      "tier": "canopy",
+      "x": 21.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": 23.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_wall",
+      "tier": "canopy",
+      "x": 25.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_tower",
+      "tier": "canopy",
+      "x": 27.4,
+      "z": -11.4
+    },
+    {
+      "key": "arena_breached_wall_0",
+      "tier": "canopy",
+      "x": 29.4,
+      "z": -11.4
+    },
+    {
+      "key": "arena_breached_wall_0",
+      "tier": "canopy",
+      "x": 31.4,
+      "z": -11.4
+    },
+    {
+      "key": "arena_breached_wall_0",
+      "tier": "canopy",
+      "x": 33.4,
+      "z": -11.4
+    },
+    {
+      "key": "town_tower",
+      "tier": "canopy",
+      "x": 35.4,
+      "z": -11.4
+    },
+    {
+      "key": "arena_siege_tower_0",
+      "tier": "canopy",
+      "x": -15.6,
+      "z": -13.4,
+      "turn": -0.07
+    },
+    {
+      "key": "arena_siege_tower_0",
+      "tier": "canopy",
+      "x": 7.8,
+      "z": -13.6,
+      "turn": 0.03
+    },
+    {
+      "key": "arena_siege_tower_0",
+      "tier": "canopy",
+      "x": 23.2,
+      "z": -13.2,
+      "turn": -0.03
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -33.67,
+      "z": -15.19,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -27.24,
+      "z": -15.08,
+      "turn": 1.57
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -25.23,
+      "z": -14.92,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -23,
+      "z": -15.05,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -18.51,
+      "z": -14.87,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -13.66,
+      "z": -14.99,
+      "turn": 1.57
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -9.46,
+      "z": -15,
+      "turn": 1.62
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -7,
+      "z": -14.89,
+      "turn": 1.59
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -2.72,
+      "z": -14.97,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 3.63,
+      "z": -14.87,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 5.99,
+      "z": -15.16,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 10.03,
+      "z": -14.8,
+      "turn": 1.62
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 12.42,
+      "z": -14.94,
+      "turn": 1.64
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 14.62,
+      "z": -14.98,
+      "turn": 1.64
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 19.27,
+      "z": -14.98,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 21.32,
+      "z": -15.09,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 23.67,
+      "z": -14.93,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 25.78,
+      "z": -15.08,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 29.97,
+      "z": -15.05,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 32.21,
+      "z": -15.09,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 34.46,
+      "z": -15,
+      "turn": 1.64
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -29.75,
+      "z": -13.9,
+      "turn": 2.29
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -20.53,
+      "z": -13.9,
+      "turn": 2.58
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -1.36,
+      "z": -13.9,
+      "turn": 2.14
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": 17.47,
+      "z": -13.9,
+      "turn": -2.54
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": 27.29,
+      "z": -13.9,
+      "turn": -3.11
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": 36.66,
+      "z": -13.9,
+      "turn": 0.93
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -35.56,
+      "z": -17.19,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -33.43,
+      "z": -17.33,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -31.32,
+      "z": -17.33,
+      "turn": 1.61
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -26.9,
+      "z": -17.18,
+      "turn": 1.56
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -24.71,
+      "z": -17.25,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -22.33,
+      "z": -17.45,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -15.82,
+      "z": -17.34,
+      "turn": 1.61
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -13.71,
+      "z": -17.24,
+      "turn": 1.62
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -11.44,
+      "z": -17.18,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -7.35,
+      "z": -17.16,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -5.32,
+      "z": -17.55,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -3.11,
+      "z": -17.43,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 1.01,
+      "z": -17.43,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 3.3,
+      "z": -17.23,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 5.39,
+      "z": -17.22,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 7.35,
+      "z": -17.48,
+      "turn": 1.59
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 11.97,
+      "z": -17.39,
+      "turn": 1.64
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 20.63,
+      "z": -17.47,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 22.86,
+      "z": -17.23,
+      "turn": 1.56
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 25.1,
+      "z": -17.56,
+      "turn": 1.63
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 29.55,
+      "z": -17.48,
+      "turn": 1.63
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 31.83,
+      "z": -17.38,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 35.86,
+      "z": -17.53,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": -28.69,
+      "z": -16.26,
+      "turn": 0.34
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -19.07,
+      "z": -16.26,
+      "turn": -1.73
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -0.5,
+      "z": -16.26,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": 9.07,
+      "z": -16.26,
+      "turn": -0.18
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": 18.4,
+      "z": -16.26,
+      "turn": -0.13
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": 27.91,
+      "z": -16.26,
+      "turn": -2.45
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -35.9,
+      "z": -19.97,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -33.71,
+      "z": -19.93,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -31.47,
+      "z": -20.08,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -27.08,
+      "z": -19.8,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -22.81,
+      "z": -19.94,
+      "turn": 1.64
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -18.26,
+      "z": -20.06,
+      "turn": 1.62
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -16.17,
+      "z": -20.07,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -14.11,
+      "z": -20.05,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -11.97,
+      "z": -20.06,
+      "turn": 1.56
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -7.83,
+      "z": -20.13,
+      "turn": 1.57
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -5.66,
+      "z": -19.89,
+      "turn": 1.64
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -3.25,
+      "z": -20,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 0.87,
+      "z": -20.12,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 3.3,
+      "z": -19.87,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 5.38,
+      "z": -20.11,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 7.65,
+      "z": -20.17,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 13.96,
+      "z": -19.81,
+      "turn": 1.63
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 16.28,
+      "z": -20.03,
+      "turn": 1.61
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 20.59,
+      "z": -20.07,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 22.6,
+      "z": -19.98,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 24.9,
+      "z": -19.79,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 31.54,
+      "z": -19.93,
+      "turn": 1.61
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 33.29,
+      "z": -19.99,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 35.7,
+      "z": -20.16,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -29.3,
+      "z": -18.89,
+      "turn": 2.82
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": -19.73,
+      "z": -18.89,
+      "turn": -0.14
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -10.11,
+      "z": -18.89,
+      "turn": -0.55
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": 18.36,
+      "z": -18.89,
+      "turn": -0.34
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": 27.83,
+      "z": -18.89,
+      "turn": 1.84
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -35.6,
+      "z": -22.58,
+      "turn": 1.56
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -33.5,
+      "z": -22.47,
+      "turn": 1.56
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -31.22,
+      "z": -22.6,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -26.78,
+      "z": -22.45,
+      "turn": 1.59
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -24.97,
+      "z": -22.4,
+      "turn": 1.59
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -22.6,
+      "z": -22.24,
+      "turn": 1.62
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -18.54,
+      "z": -22.21,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -16.43,
+      "z": -22.43,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -14.15,
+      "z": -22.22,
+      "turn": 1.62
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -11.97,
+      "z": -22.47,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -7.83,
+      "z": -22.51,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 1,
+      "z": -22.47,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 3.24,
+      "z": -22.42,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 5.5,
+      "z": -22.25,
+      "turn": 1.61
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 9.97,
+      "z": -22.5,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 12.35,
+      "z": -22.24,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 14.57,
+      "z": -22.5,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 19.11,
+      "z": -22.47,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 21.49,
+      "z": -22.28,
+      "turn": 1.61
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 23.48,
+      "z": -22.42,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 25.74,
+      "z": -22.46,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 30.17,
+      "z": -22.5,
+      "turn": 1.59
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 32.43,
+      "z": -22.44,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 34.58,
+      "z": -22.38,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -29.82,
+      "z": -21.31,
+      "turn": 1.67
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": 17.78,
+      "z": -21.31,
+      "turn": -0.21
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -35.96,
+      "z": -25.19,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -33.59,
+      "z": -25.24,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -31.17,
+      "z": -25.29,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -26.8,
+      "z": -25.24,
+      "turn": 1.64
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -24.35,
+      "z": -25.23,
+      "turn": 1.63
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -22.57,
+      "z": -24.98,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -18.05,
+      "z": -25.09,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -15.63,
+      "z": -24.98,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -13.54,
+      "z": -25.13,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -9.36,
+      "z": -24.98,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -4.82,
+      "z": -25.12,
+      "turn": 1.61
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -2.52,
+      "z": -25.11,
+      "turn": 1.5
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 1.6,
+      "z": -25.08,
+      "turn": 1.5
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 3.71,
+      "z": -25,
+      "turn": 1.62
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 5.81,
+      "z": -25.16,
+      "turn": 1.55
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 9.72,
+      "z": -25.29,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 14.15,
+      "z": -25.1,
+      "turn": 1.56
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 16.14,
+      "z": -25.15,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 22.71,
+      "z": -25.2,
+      "turn": 1.62
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 24.82,
+      "z": -24.98,
+      "turn": 1.51
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 29.43,
+      "z": -25.06,
+      "turn": 1.57
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 33.45,
+      "z": -25,
+      "turn": 1.63
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -29.81,
+      "z": -24,
+      "turn": 2.17
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -10.78,
+      "z": -24,
+      "turn": 0.02
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": -1.36,
+      "z": -24,
+      "turn": 2.23
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": 8.03,
+      "z": -24,
+      "turn": 0.93
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -35.9,
+      "z": -27.78,
+      "turn": 1.63
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -33.86,
+      "z": -27.48,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -31.73,
+      "z": -27.82,
+      "turn": 1.57
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -27.62,
+      "z": -27.65,
+      "turn": 1.62
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -25.04,
+      "z": -27.46,
+      "turn": 1.56
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -22.86,
+      "z": -27.65,
+      "turn": 1.6
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -20.91,
+      "z": -27.55,
+      "turn": 1.62
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -16.58,
+      "z": -27.54,
+      "turn": 1.63
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -7.95,
+      "z": -27.73,
+      "turn": 1.61
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -5.82,
+      "z": -27.72,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": -3.57,
+      "z": -27.68,
+      "turn": 1.56
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 0.89,
+      "z": -27.63,
+      "turn": 1.54
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 3.18,
+      "z": -27.67,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 5.5,
+      "z": -27.75,
+      "turn": 1.59
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 7.77,
+      "z": -27.49,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 12.29,
+      "z": -27.46,
+      "turn": 1.56
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 14.52,
+      "z": -27.5,
+      "turn": 1.53
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 16.94,
+      "z": -27.63,
+      "turn": 1.5
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 21.48,
+      "z": -27.72,
+      "turn": 1.52
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 23.71,
+      "z": -27.62,
+      "turn": 1.56
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 25.96,
+      "z": -27.49,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 32.66,
+      "z": -27.53,
+      "turn": 1.58
+    },
+    {
+      "key": "arena_legion_tent_0",
+      "tier": "canopy",
+      "x": 34.78,
+      "z": -27.63,
+      "turn": 1.61
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -28.65,
+      "z": -26.53,
+      "turn": -0.54
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -19.49,
+      "z": -26.53,
+      "turn": 3.09
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": -10.22,
+      "z": -26.53,
+      "turn": 0.67
+    },
+    {
+      "key": "arena_crates_0",
+      "tier": "thicket",
+      "x": -0.45,
+      "z": -26.53,
+      "turn": 1.11
+    },
+    {
+      "key": "arena_burrow_fire_0",
+      "tier": "thicket",
+      "x": 18.31,
+      "z": -26.53,
+      "turn": -0.99
+    }
+  ],
+  "groups": [
+    {
+      "bearing": -1.5707963267948966,
+      "depth": 1,
+      "pieces": [
+        {
+          "key": "arena_breached_gatehouse_0",
+          "tier": "canopy",
+          "across": 0,
+          "along": 0.6,
+          "scale": 1.5
+        },
+        {
+          "key": "arena_banner_0",
+          "tier": "canopy",
+          "across": -3.6,
+          "along": -0.4
+        },
+        {
+          "key": "arena_banner_0",
+          "tier": "canopy",
+          "across": 3.6,
+          "along": -0.4
+        },
+        {
+          "key": "arena_siege_ram_0",
+          "tier": "canopy",
+          "across": -4.6,
+          "along": 1.2,
+          "turn": 1.2
+        },
+        {
+          "key": "arena_city_rubble_0",
+          "tier": "thicket",
+          "across": 2.4,
+          "along": -0.9
+        }
+      ]
+    }
+  ],
+  "quiet": [
+    {
+      "bearing": 1.5707963267948966,
+      "sweep": 1.4,
+      "density": 0.1
+    }
+  ],
+  "ground": {
+    "floor": {
+      "tile": "#8a7c6a",
+      "ground": "#4a3f36"
+    },
+    "patches": [
+      {
+        "tint": [
+          0.62,
+          0.58,
+          0.56
+        ],
+        "threshold": 0.56,
+        "ramp": 0.16,
+        "scale": 2.6,
+        "salt": 31
+      },
+      {
+        "tint": [
+          0.98,
+          0.9,
+          0.8
+        ],
+        "threshold": 0.6,
+        "ramp": 0.14,
+        "scale": 4.2,
+        "salt": 59
+      },
+      {
+        "tint": [
+          0.8,
+          0.76,
+          0.72
+        ],
+        "threshold": 0.46,
+        "ramp": 0.28,
+        "scale": 6,
+        "salt": 13
+      }
+    ]
+  },
+  "haze": {
+    "color": "#5a3e34",
+    "near": 34,
+    "far": 52
+  },
+  "meta": {
+    "notes": "The siege arena: the player's own town on the night the Legion takes it. Authored in Arena Forge; the breached gatehouse is the one landmark, behind the Legion's spawn rows at the far side, with burning and standing houses on both flanks and the plaza left open behind the party. the private project notes is the evidence."
+  }
+}
